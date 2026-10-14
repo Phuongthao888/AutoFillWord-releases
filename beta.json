@@ -1,9 +1,9 @@
 {
-  "version": "2.2.1",
-  "tag": "v2.2.1",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.1/AutoFillWord-Setup-2.2.1.exe",
-  "sha256": "e8b545f141399e1e68a665e7c72b15ea77b42ce77a8613afc9c14c7071cb470b",
-  "notes": "- Merge pull request #18 from Phuongthao888/claude/friendly-bell-kfnd8d",
-  "published_at": "2026-10-14T03:32:01Z",
-  "commit": "a7152bdf8b88b3f0c0aec11ea897d285afb39620"
+  "version": "2.2.3",
+  "tag": "v2.2.3",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.3/AutoFillWord-Setup-2.2.3.exe",
+  "sha256": "d0f80117f71618263d12129328600feedd731416ea0b7000391abe4450dc12e6",
+  "notes": "- Ghi nhớ đăng nhập 30 ngày + logo KOL/KOC cho app desktop (#20)\n- Sửa lỗi bảng mã tiếng Việt khi đưa bộ cài lên repo phát hành (#19)",
+  "published_at": "2026-10-14T04:02:31Z",
+  "commit": "7c60d7e15d1a7e110c10996465a2f6c91784ce35"
 }
