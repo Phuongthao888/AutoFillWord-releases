@@ -1,0 +1,8 @@
+{
+  "version": "2.2.3",
+  "tag": "v2.2.3",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.3/AutoFillWord-Setup-2.2.3.exe",
+  "sha256": "d0f80117f71618263d12129328600feedd731416ea0b7000391abe4450dc12e6",
+  "notes": "- Ghi nhớ đăng nhập 30 ngày + logo KOL/KOC cho app desktop (#20)\n- Sửa lỗi bảng mã tiếng Việt khi đưa bộ cài lên repo phát hành (#19)",
+  "published_at": "2026-10-14T04:08:58Z"
+}
