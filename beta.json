@@ -1,9 +1,9 @@
 {
-  "version": "2.2.2",
-  "tag": "v2.2.2",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.2/AutoFillWord-Setup-2.2.2.exe",
-  "sha256": "411ee93cab9c5efe989cdabbf874c209babdcc0269044ad68d82a94f08e7fbdb",
-  "notes": "- Sửa lỗi bảng mã tiếng Việt khi đưa bộ cài lên repo phát hành (#19)\n- App desktop Windows + bộ cài + cập nhật tự động (#18)\n- Windows: tự cài Python cho máy người dùng, sửa build_exe.bat và file .exe (#17)\n- Dời khối tài khoản đăng nhập xuống cuối sidebar (#16)\n- Nâng cấp giao diện: theme tối sáng hơn, thẻ thống kê, header/sidebar/footer chuyên nghiệp hơn (#15)\n- Cảnh báo trùng \"Tên tài liệu (*)\" và chặn duyệt cho tới khi đổi tên (#14)\n- Tái cấu trúc thư mục project (app/, web/, tests/, docs/) - không đổi logic (#13)\n- Nút Tải lại lấy luôn câu trả lời Google Form; khung Sửa dễ hiểu hơn (#11)\n- Đồng bộ Google Form KOL trên tool chạy giống Apps Script SyncFormKOL (#10)\n- Google Form cho KOL: mỗi brand 1 form, tự đồng bộ vào đúng file brand (#9)\n- Review: thêm Unprocessed hàng loạt (#8)\n- Màn hình Review hợp đồng cho Legal/IT + Approved hàng loạt (#7)\n- Khung Sửa từng dòng, \"Xem thêm\" cho ô dài, thu gọn sidebar (#6)\n- Ghi dữ liệu vào file riêng của từng brand (IMPORTRANGE) + chống lệch dòng (#5)\n- Tăng tốc thao tác và bớt thông báo không cần thiết (#4)",
-  "published_at": "2026-10-14T03:29:03Z",
-  "commit": "f1c359836137c8aee652ce2119519d2b13535d9f"
+  "version": "2.2.1",
+  "tag": "v2.2.1",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.1/AutoFillWord-Setup-2.2.1.exe",
+  "sha256": "e8b545f141399e1e68a665e7c72b15ea77b42ce77a8613afc9c14c7071cb470b",
+  "notes": "- Merge pull request #18 from Phuongthao888/claude/friendly-bell-kfnd8d",
+  "published_at": "2026-10-14T03:32:01Z",
+  "commit": "a7152bdf8b88b3f0c0aec11ea897d285afb39620"
 }
