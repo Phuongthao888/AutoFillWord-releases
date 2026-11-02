@@ -1,9 +1,9 @@
 {
-  "version": "2.2.4",
-  "tag": "v2.2.4",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.4/AutoFillWord-Setup-2.2.4.exe",
-  "sha256": "61b391548eec5888886293d80c0a17f79e99b16012fd0bbd1051f4993d4ad46d",
-  "notes": "- Phóng to ảnh CCCD/MST trong file Word (#hinh_cccd_mst#) (#21)",
-  "published_at": "2026-11-02T03:05:38Z",
-  "commit": "3c4ed76205957563e3bd857d70221c9286ca8c2d"
+  "version": "2.2.5",
+  "tag": "v2.2.5",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.5/AutoFillWord-Setup-2.2.5.exe",
+  "sha256": "947959235a7a5b276143c7b933733df3f0f9f017fe6e1d29ff61e5aca8f2b247",
+  "notes": "- Tăng chiều ngang ảnh CCCD/MST lên 15cm (#hinh_cccd_mst#) (#22)",
+  "published_at": "2026-11-02T03:34:13Z",
+  "commit": "8885bdd7fa0d7259982cb13b814a95628e4e0484"
 }
