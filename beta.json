@@ -1,9 +1,9 @@
 {
-  "version": "2.2.5",
-  "tag": "v2.2.5",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.5/AutoFillWord-Setup-2.2.5.exe",
-  "sha256": "947959235a7a5b276143c7b933733df3f0f9f017fe6e1d29ff61e5aca8f2b247",
-  "notes": "- Tăng chiều ngang ảnh CCCD/MST lên 15cm (#hinh_cccd_mst#) (#22)",
-  "published_at": "2026-11-02T03:34:13Z",
-  "commit": "8885bdd7fa0d7259982cb13b814a95628e4e0484"
+  "version": "2.2.6",
+  "tag": "v2.2.6",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.6/AutoFillWord-Setup-2.2.6.exe",
+  "sha256": "e9833e83fe84a2d6cc04014490634abe4b7c93fb39012161b2227f8b969da134",
+  "notes": "- Màn hình chờ khi mở app desktop + mở app nhanh hơn (#23)",
+  "published_at": "2026-11-02T03:58:01Z",
+  "commit": "38e652093c3c7cf941cc175720b775a41b518039"
 }
