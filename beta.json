@@ -1,9 +1,9 @@
 {
-  "version": "2.2.6",
-  "tag": "v2.2.6",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.6/AutoFillWord-Setup-2.2.6.exe",
-  "sha256": "e9833e83fe84a2d6cc04014490634abe4b7c93fb39012161b2227f8b969da134",
-  "notes": "- Màn hình chờ khi mở app desktop + mở app nhanh hơn (#23)",
-  "published_at": "2026-11-02T03:58:01Z",
-  "commit": "38e652093c3c7cf941cc175720b775a41b518039"
+  "version": "2.2.7",
+  "tag": "v2.2.7",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.7/AutoFillWord-Setup-2.2.7.exe",
+  "sha256": "81faf7ddd1455f72b30c6b296613ef2df7686d141f5691a087c39b8fb127402b",
+  "notes": "- Hộp loading hiện ngay khi bấm đúp + app luôn mở toàn màn hình (#24)",
+  "published_at": "2026-11-02T04:38:40Z",
+  "commit": "054157422ffe919e444d5f0751a9d66abfb952dc"
 }
