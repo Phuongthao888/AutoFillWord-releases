@@ -1,8 +1,8 @@
 {
-  "version": "2.2.7",
-  "tag": "v2.2.7",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.7/AutoFillWord-Setup-2.2.7.exe",
-  "sha256": "81faf7ddd1455f72b30c6b296613ef2df7686d141f5691a087c39b8fb127402b",
-  "notes": "- Hộp loading hiện ngay khi bấm đúp + app luôn mở toàn màn hình (#24)",
-  "published_at": "2026-11-02T04:40:13Z"
+  "version": "2.2.8",
+  "tag": "v2.2.8",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.8/AutoFillWord-Setup-2.2.8.exe",
+  "sha256": "163e5d75a87ddcad2dbb442e7fcb30be7eeb1c5f580fc336a7b1fc90eecb428b",
+  "notes": "- Sửa định dạng ngày tháng và số tiền khi tạo hợp đồng Word (#25)",
+  "published_at": "2026-11-03T03:00:55Z"
 }
