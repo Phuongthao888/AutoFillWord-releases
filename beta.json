@@ -1,9 +1,9 @@
 {
-  "version": "2.2.9",
-  "tag": "v2.2.9",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.9/AutoFillWord-Setup-2.2.9.exe",
-  "sha256": "75fefe6a5a1d16019cc90a67982430c9e1532cc5e4f7ebff9a7f9b9995d44093",
-  "notes": "- Brand mới tự có ô cấu hình (Thư mục Drive, Google Form KOL, gửi MISA)… (#26)",
-  "published_at": "2026-11-04T03:18:57Z",
-  "commit": "0fe685345eaa37da3308525785c5a15e2e005db7"
+  "version": "2.2.10",
+  "tag": "v2.2.10",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.10/AutoFillWord-Setup-2.2.10.exe",
+  "sha256": "69a65987b03b9ba9c025e8564755e8e516b7cfa0b9573e622d72e7418b751920",
+  "notes": "- Đồng bộ cấu hình từ máy IT sang các máy khác qua Google Drive (#27)",
+  "published_at": "2026-11-04T07:10:57Z",
+  "commit": "99c53a021b43db89b465f2844efe304a2bfad519"
 }
