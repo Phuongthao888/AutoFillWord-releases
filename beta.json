@@ -1,9 +1,9 @@
 {
-  "version": "2.2.10",
-  "tag": "v2.2.10",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.10/AutoFillWord-Setup-2.2.10.exe",
-  "sha256": "69a65987b03b9ba9c025e8564755e8e516b7cfa0b9573e622d72e7418b751920",
-  "notes": "- Đồng bộ cấu hình từ máy IT sang các máy khác qua Google Drive (#27)",
-  "published_at": "2026-11-04T07:10:57Z",
-  "commit": "99c53a021b43db89b465f2844efe304a2bfad519"
+  "version": "2.2.11",
+  "tag": "v2.2.11",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.11/AutoFillWord-Setup-2.2.11.exe",
+  "sha256": "dded3bd6d2090659cc9d24324c0e0a83903d53baa178b105b158f20b97240eb1",
+  "notes": "- Cập nhật app: xác minh chứng chỉ HTTPS qua Windows + tải bằng trình d… (#28)",
+  "published_at": "2026-11-06T06:28:51Z",
+  "commit": "f19651b86f7f6b9b7fa098bac5344ef490d3235c"
 }
