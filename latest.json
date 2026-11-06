@@ -1,8 +1,8 @@
 {
-  "version": "2.2.12",
-  "tag": "v2.2.12",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.12/AutoFillWord-Setup-2.2.12.exe",
-  "sha256": "3f581ab08e6c84af1ff30fbcc723e3b1a00d0f121bb9df8c93c4b8019e66caf5",
-  "notes": "- Bỏ qua thư mục graphify-out (đồ thị code chỉ dùng trên máy) (#29)",
-  "published_at": "2026-11-06T06:41:29Z"
+  "version": "2.2.11",
+  "tag": "v2.2.11",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.11/AutoFillWord-Setup-2.2.11.exe",
+  "sha256": "dded3bd6d2090659cc9d24324c0e0a83903d53baa178b105b158f20b97240eb1",
+  "notes": "- Cập nhật app: xác minh chứng chỉ HTTPS qua Windows + tải bằng trình d… (#28)",
+  "published_at": "2026-11-06T06:42:10Z"
 }
