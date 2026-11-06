@@ -1,8 +1,8 @@
 {
-  "version": "2.2.10",
-  "tag": "v2.2.10",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.10/AutoFillWord-Setup-2.2.10.exe",
-  "sha256": "69a65987b03b9ba9c025e8564755e8e516b7cfa0b9573e622d72e7418b751920",
-  "notes": "- Đồng bộ cấu hình từ máy IT sang các máy khác qua Google Drive (#27)",
-  "published_at": "2026-11-04T07:15:39Z"
+  "version": "2.2.12",
+  "tag": "v2.2.12",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.12/AutoFillWord-Setup-2.2.12.exe",
+  "sha256": "3f581ab08e6c84af1ff30fbcc723e3b1a00d0f121bb9df8c93c4b8019e66caf5",
+  "notes": "- Bỏ qua thư mục graphify-out (đồ thị code chỉ dùng trên máy) (#29)",
+  "published_at": "2026-11-06T06:40:15Z"
 }
