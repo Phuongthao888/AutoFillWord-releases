@@ -1,8 +1,8 @@
 {
-  "version": "2.2.12",
-  "tag": "v2.2.12",
-  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.12/AutoFillWord-Setup-2.2.12.exe",
-  "sha256": "3f581ab08e6c84af1ff30fbcc723e3b1a00d0f121bb9df8c93c4b8019e66caf5",
-  "notes": "- Bỏ qua thư mục graphify-out (đồ thị code chỉ dùng trên máy) (#29)",
-  "published_at": "2026-11-11T07:53:34Z"
+  "version": "2.2.13",
+  "tag": "v2.2.13",
+  "url": "https://github.com/Phuongthao888/AutoFillWord-releases/releases/download/v2.2.13/AutoFillWord-Setup-2.2.13.exe",
+  "sha256": "6f5635fa4af744e896f109aa4a9b67d29c348592c528a8648fbcd59842bb6dfb",
+  "notes": "- Số tiền trong Word lấy y hệt số Google Sheet đang hiển thị (#30)",
+  "published_at": "2026-11-26T08:41:35Z"
 }
